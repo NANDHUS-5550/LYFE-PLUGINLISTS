@@ -298,8 +298,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 **Use by Given format** <br/>
 Example
-```js
-.msfor ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝Manu࿐⁩;⇆ㅤ ||◁ㅤ❚❚ㅤ▷||ㅤ ↻;01:06 ━━━━⬤─────── 04:05;111111111;111111111111111111;https://instagram.com;https://wa.me/917356159070;https://i.imgur.com/soghNME.jpeg;https://i.imgur.com/Y1MNRWF.jpeg;120363044083247727@g.us
+`gh;https://instagram.com;https://wa.me/917356159070;https://i.imgur.com/soghNME.jpeg;https://i.imgur.com/Y1MNRWF.jpeg;120363044083247727@g.us
 ```
 <br />
 <br />
@@ -599,47 +598,13 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 https://gist.github.com/mask-sir/14a99796c4885eaf3bae5a393369aa1c/raw
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : CHANGE GROUP NAME <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉDM  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/1e255bc65f1fb7121a3b2ee7418e4431
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :pm message creator <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉSTATUS SAVER </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/33df016b85fa5cb2a8f4e68be73ca9ce/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :send replied message to a specific jid <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉEMOJI TO PNG  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
 https://gist.github.com/mask-sir/a9ee197e0c91b272e28c6aaaf3400aef
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : CONVERT EMOJI TO PNG <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
-<h4 align="center">  ᐉ STATUS SAVER(#) </h1>
-
+<h4 align="center">, git.y,mfgfeeqsj. e
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
 
 
